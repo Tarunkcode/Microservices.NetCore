@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Application/Catalog.Application.csproj": {}
+  },
+  "projects": {
+    "/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Application/Catalog.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Application/Catalog.Application.csproj",
+        "projectName": "Catalog.Application",
+        "projectPath": "/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Application/Catalog.Application.csproj",
+        "packagesPath": "/home/tarun/.nuget/packages/",
+        "outputPath": "/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tarun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Core/Catalog.Core.csproj": {
+                "projectPath": "/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Core/Catalog.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.426/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Core/Catalog.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Core/Catalog.Core.csproj",
+        "projectName": "Catalog.Core",
+        "projectPath": "/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Core/Catalog.Core.csproj",
+        "packagesPath": "/home/tarun/.nuget/packages/",
+        "outputPath": "/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tarun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AspNetCore.HealthChecks.MongoDb": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.24.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.426/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
