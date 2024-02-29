@@ -1,0 +1,12 @@
+/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Application/bin/Debug/netcoreapp3.1/Catalog.Application.deps.json
+/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Application/bin/Debug/netcoreapp3.1/Catalog.Application.dll
+/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Application/bin/Debug/netcoreapp3.1/Catalog.Application.pdb
+/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Application/bin/Debug/netcoreapp3.1/Catalog.Core.dll
+/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Application/bin/Debug/netcoreapp3.1/Catalog.Core.pdb
+/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Application/obj/Debug/netcoreapp3.1/Catalog.Application.csprojAssemblyReference.cache
+/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Application/obj/Debug/netcoreapp3.1/Catalog.Application.AssemblyInfoInputs.cache
+/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Application/obj/Debug/netcoreapp3.1/Catalog.Application.AssemblyInfo.cs
+/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Application/obj/Debug/netcoreapp3.1/Catalog.Application.csproj.CoreCompileInputs.cache
+/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Application/obj/Debug/netcoreapp3.1/Catalog.Application.csproj.CopyComplete
+/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Application/obj/Debug/netcoreapp3.1/Catalog.Application.dll
+/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Application/obj/Debug/netcoreapp3.1/Catalog.Application.pdb

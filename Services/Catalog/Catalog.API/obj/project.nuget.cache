@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Rth9EJZDVP8MGwEb+01BJFlNlhiLZwgWe7M/lKMSu2hzxmBqS+tiM1pRhF/ze2rqP0RPKFJz8Lu6DLqxTn+ovw==",
+  "dgSpecHash": "68cCNAm+8uhs2lCcrHPtxhMhePeBbN3HXYx53l0aTbXs7owoVaQoYoz6eSC3S5/udgPPTA9A5Jgu0RJWR0IIPA==",
   "success": true,
   "projectFilePath": "/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.API/Catalog.API.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,9 @@
     "/home/tarun/.nuget/packages/awssdk.securitytoken/3.7.100.14/awssdk.securitytoken.3.7.100.14.nupkg.sha512",
     "/home/tarun/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",
     "/home/tarun/.nuget/packages/microsoft.bcl.asyncinterfaces/8.0.0/microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "/home/tarun/.nuget/packages/microsoft.extensions.configuration/3.1.20/microsoft.extensions.configuration.3.1.20.nupkg.sha512",
     "/home/tarun/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/home/tarun/.nuget/packages/microsoft.extensions.configuration.binder/3.1.20/microsoft.extensions.configuration.binder.3.1.20.nupkg.sha512",
     "/home/tarun/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "/home/tarun/.nuget/packages/microsoft.extensions.diagnostics.abstractions/8.0.0/microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg.sha512",
     "/home/tarun/.nuget/packages/microsoft.extensions.diagnostics.healthchecks/8.0.2/microsoft.extensions.diagnostics.healthchecks.8.0.2.nupkg.sha512",
