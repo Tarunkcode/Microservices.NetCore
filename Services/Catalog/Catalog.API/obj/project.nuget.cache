@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "68cCNAm+8uhs2lCcrHPtxhMhePeBbN3HXYx53l0aTbXs7owoVaQoYoz6eSC3S5/udgPPTA9A5Jgu0RJWR0IIPA==",
+  "dgSpecHash": "TQ0GSjFLJKa0XyjGlHbGg1QauH9dVZNe8e6NWWQPMnC58d/Mn2W3UmQOjPiDY0C1MsDf3uD+06TF5C0ZJteLxA==",
   "success": true,
   "projectFilePath": "/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.API/Catalog.API.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "/home/tarun/.nuget/packages/awssdk.core/3.7.100.14/awssdk.core.3.7.100.14.nupkg.sha512",
     "/home/tarun/.nuget/packages/awssdk.securitytoken/3.7.100.14/awssdk.securitytoken.3.7.100.14.nupkg.sha512",
     "/home/tarun/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",
+    "/home/tarun/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/home/tarun/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/home/tarun/.nuget/packages/microsoft.bcl.asyncinterfaces/8.0.0/microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "/home/tarun/.nuget/packages/microsoft.extensions.configuration/3.1.20/microsoft.extensions.configuration.3.1.20.nupkg.sha512",
     "/home/tarun/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

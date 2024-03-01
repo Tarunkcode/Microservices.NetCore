@@ -62,3 +62,5 @@
 /home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.API/obj/Debug/netcoreapp3.1/Catalog.API.genruntimeconfig.cache
 /home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
 /home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.API/bin/Debug/netcoreapp3.1/MediatR.dll
+/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.API/bin/Debug/netcoreapp3.1/MediatR.Contracts.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PUmNfHVztBfAmRcUa0Hd1h97MBRHEs8jV+mdd6RezULeDe2Xbft/FAsLQKZMFWVgmRpsAClgxcy0IZM4BmvfjQ==",
+  "dgSpecHash": "S+Z45qjfrVyfT28hAtP/N92nrlTO9iIXaqdcB4QoMELQg+9xac10tK8Vb/FcK1Ja62INC0zsQVPOgeYQKY7Ixw==",
   "success": true,
   "projectFilePath": "/home/tarun/Microservices/ECommerce.Microservices/Services/Catalog/Catalog.Application/Catalog.Application.csproj",
   "expectedPackageFiles": [

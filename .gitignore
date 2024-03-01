@@ -5,6 +5,8 @@ artifacts/
 
 # Visual Studio Code
 .vscode/
+obj/
+bin/
 
 # Rider
 .idea/
